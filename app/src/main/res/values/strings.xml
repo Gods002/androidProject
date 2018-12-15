@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Name Card</string>
+    <string name="nameKri">krisorn</string>
+    <string name="lastNameKri">kachai</string>
+    <string name="phoneNumberKri">0802282472</string>
+    <string name="mailKri">24433@ppk.ac.th</string>
+    <string name="facutyKri">faculty of engineering</string>
+    <string name="universityKri">chiangmai university</string>
+
+    <string name="nameGod">chawalid</string>
+    <string name="lastNameGod">punyacharean</string>
+    <string name="phoneNumberGod">0805574878</string>
+    <string name="mailGod">chawalid_punyacharean</string>
+    <string name="facutyGod">faculty of engineering</string>
+    <string name="universityGod">chiangmai university</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+</resources>
